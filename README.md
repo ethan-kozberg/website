@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/github/license/Xiao-Chenguang/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/ethan-kozberg/website/blob/main/LICENSE)
 
-Code for my website.
+Code for my [website](https://ethankozberg.com/).
 
 
 ## License
