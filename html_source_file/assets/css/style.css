@@ -56,7 +56,7 @@ education { font-weight: 500; font-size: 115%; }
 
 papertitle { font-weight: 600; font-size: 100%; }
 
-@media (prefers-color-scheme: dark) { body { background-color: #191919; color: #dadbdf; }
+@media (prefers-color-scheme: dark) { body { background-color: #191919; color: #f2f3f4; }
   autocolor { color: #dadbdf; }
   lightonly { visibility: hidden; }
   darkonly { visibility: visible; }
@@ -75,7 +75,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 500; color: #fff; margin: 0 0 10px; }
+h1 { font-weight: 500; margin: 0 0 10px; }
 
 h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
